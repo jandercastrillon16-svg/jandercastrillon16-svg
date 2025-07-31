@@ -1,4 +1,4 @@
-# 👨‍💻 Jander Castrillón
+# 👨‍💻 Jander Castrillón.
 
 Estudiante de **Programación** en el **SENA**. Apasionado por el desarrollo de software y las tecnologías web. Me gusta resolver problemas con código y crear proyectos útiles que puedan ayudar a otros.
 
