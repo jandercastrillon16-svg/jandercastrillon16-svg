@@ -35,3 +35,39 @@ Estudiante de **Programación** en el **SENA**. Apasionado por el desarrollo de 
 Si quieres contactarme o colaborar, puedes escribirme por GitHub o dejar una estrella ⭐ en mis proyectos.
 
 
+
+# 🌈 Catálogo de Productos con Flask
+
+Este proyecto es un catálogo de productos desarrollado con **Flask**, con interfaz atractiva y funcionalidades de búsqueda, edición y modo visitante.
+
+---
+
+## 🚀 Página en Vivo
+🔗 **[Abrir aplicación aquí](https://mi-web-5jze.onrender.com)**
+
+---
+
+## 📌 Características
+- Interfaz moderna con diseño multicolor
+- CRUD de productos (agregar, editar, eliminar)
+- Modo administrador protegido con login
+- Modo visitante (solo visualización)
+- Búsqueda y filtrado por categorías
+- Animaciones suaves al interactuar
+
+---
+
+## 🛠 Tecnologías Utilizadas
+- **Python 3** + Flask
+- HTML5, CSS3, JavaScript
+- Bootstrap / TailwindCSS
+- Render (Despliegue)
+- GitHub (Control de versiones)
+
+---
+
+## ⚙ Instalación y Ejecución Local
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/jandercastrillon16-svg/mi_web.git
+
